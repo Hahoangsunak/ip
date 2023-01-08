@@ -1,1 +1,1 @@
-aaaa:0.tcp.ap.ngrok.io:18977:0:0
+TRỰC TUYẾN:0.tcp.ap.ngrok.io:17784:0:0
