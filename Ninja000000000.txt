@@ -1,1 +1,1 @@
-TRỰC TUYẾN:0.tcp.ap.ngrok.io:10857:0:0
+TRỰCtuyen:0.tcp.ap.ngrok.io:10857:0:0
