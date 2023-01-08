@@ -1,1 +1,1 @@
-ha:0.tcp.ap.ngrok.io:13040:0:0
+nc:0.tcp.ap.ngrok.io:15176:0:0
